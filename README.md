@@ -5,10 +5,15 @@
 - 💞️ I am looking for a job in an IT company for further development in the field of WEB-developer. 
 -    I can also do one-time work, which will help increase my experience and complement my portfolio. ...
 - 📫 How to reach me: 
--     e-mail: jakubenko.irina@gmail.com
--     Telegram: @Irena_Nik
--     linkedin: www.linkedin.com/in/ирина-николаенко-44b905210
--     viber/phone: 067-575-05-14
+    
+    Telegram: @Irena_Nik
+    
+    viber/phone: 067-575-05-14
+    
+    e-mail: jakubenko.irina@gmail.com
+    
+    linkedin: www.linkedin.com/in/ирина-николаенко-44b905210
+    
 <!---
 NikolaienkoIrina/NikolaienkoIrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
